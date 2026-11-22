@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794969585 source:c:\users\gs\documents\assignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+
